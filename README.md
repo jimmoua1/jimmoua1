@@ -1,4 +1,4 @@
-### Hello 👋 my name is Jim Moua currently learning to become a Full-Stack Wev Developer
+### Hello 👋 my name is Jim Moua
 
 
 
