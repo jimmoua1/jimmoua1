@@ -12,5 +12,14 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm Hmong
 
-<!-- Current Stacks and still Learning -->
+# Current Stacks
 
+![](https://i.postimg.cc/90VnWVK5/html.png)
+![](https://i.postimg.cc/c4zBh0hx/css3.png)
+![](https://i.postimg.cc/qqLZqSHt/javascript.png)
+![](https://i.postimg.cc/y8gzdmvV/react.png)
+![](https://i.postimg.cc/25nRdCsM/sass.png)
+![](https://i.postimg.cc/52hWFXR8/node-js.png)
+![](https://i.postimg.cc/ncwJpRKR/mysql.png)
+![](https://i.postimg.cc/4dZCBrZd/postgresql.png)
+![](https://i.postimg.cc/KvT6hGzz/jest.png)
