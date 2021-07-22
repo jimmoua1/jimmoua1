@@ -8,7 +8,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... jimmoua4@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I went hunting with my dad and he shot a deer while pooping in front of the tree. Wish I record it 😂
+
 \
 &nbsp;
 ## Current Stacks
