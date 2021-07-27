@@ -16,6 +16,7 @@
 [![](https://i.postimg.cc/c4zBh0hx/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![](https://i.postimg.cc/qqLZqSHt/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![](https://i.postimg.cc/y8gzdmvV/react.png)](https://reactjs.org/)
+[![](https://i.postimg.cc/cJtXzb6V/redux.png)](https://redux-toolkit.js.org/)
 [![](https://i.postimg.cc/25nRdCsM/sass.png)](https://sass-lang.com/)
 [![](https://i.postimg.cc/52hWFXR8/node-js.png)](https://nodejs.org/en/)
 [![](https://i.postimg.cc/ncwJpRKR/mysql.png)](https://www.mysql.com/)
