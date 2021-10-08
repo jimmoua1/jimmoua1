@@ -1,6 +1,6 @@
 # Hello 👋 my name is Jim Moua
 
-- 🔭 I’m currently working on ... Amazon-Clone
+- 🔭 I’m currently working on ... [Amazon-Clone](https://github.com/jimmoua1/Amazon_Clone)
 - 🏫 I'm currently graduated from ... Lambda School
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript, and React
 - 👯 I’m looking to collaborate on ... React
