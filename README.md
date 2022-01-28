@@ -1,9 +1,8 @@
 # Hello 👋 my name is Jim Moua
 
-- 🔭 I’m currently working on ... [Amazon-Clone](https://github.com/jimmoua1/Amazon_Clone)
-- 🏫 I'm currently graduated from ... Lambda School
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, and React
-- 👯 I’m looking to collaborate on ... React
+- 🔭 I’m currently learning ... Java
+- 🏫 I graduated from ... Bloom Institute of Technology
+- 🌱 I’m currently learning ... Java
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... jimmoua4@gmail.com
 - 😄 Pronouns: ... He/Him
