@@ -1,6 +1,5 @@
 # Hello 👋 my name is Jim Moua
 
-- 🔭 I’m currently learning ... Java
 - 🏫 I graduated from ... Bloom Institute of Technology
 - 🌱 I’m currently learning ... Java
 - 💬 Ask me about ... Anything
