@@ -1,6 +1,6 @@
 # Hello 👋 my name is Jim Moua
 
-- 🏫 I graduated from ... Bloom Institute of Technology
+- 🏫 I graduated from ... Bloom Institute of Technology aka Lambda School
 - 🌱 I’m currently learning ... Java
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... jimmoua4@gmail.com
